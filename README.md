@@ -40,7 +40,7 @@ The objective is to identify key reasons behind customer churn and provide actio
 ## 📸 Dashboard Preview
 
 ![Churn Analysis](Screenshots/Dashboard_Overview.png)
-
+![Churn Analysis](Screenshots/Churn_Insights.png)
 ---
 
 ## 📈 Business Impact
